@@ -2,7 +2,7 @@
 
 int main(void){
     
-    printf("penpen");
+    printf("%d" , 15 - 37);
 
     return 0;
 
